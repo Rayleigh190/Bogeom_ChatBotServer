@@ -2,6 +2,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,visualstudiocode
 
 secrets.json
+item_data.json
+item_data2.json
+item_data copy.json
 
 ### macOS ###
 # General
